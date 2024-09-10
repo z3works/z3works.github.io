@@ -562,3 +562,8 @@ sub, sup {
 }
 
 .sub-heading { max-width: 810px; }
+
+.contact li:nth-child(1) {
+	opacity: initial;
+  filter: none;
+}
